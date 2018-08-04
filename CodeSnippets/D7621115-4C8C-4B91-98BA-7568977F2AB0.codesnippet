@@ -3,24 +3,25 @@
 <plist version="1.0">
 <dict>
 	<key>IDECodeSnippetCompletionPrefix</key>
-	<string>copy</string>
+	<string>auth</string>
 	<key>IDECodeSnippetCompletionScopes</key>
 	<array>
-		<string>ClassInterfaceMethods</string>
+		<string>TopLevel</string>
 	</array>
 	<key>IDECodeSnippetContents</key>
-	<string>///&lt;#desc#&gt;
-@property (copy,   nonatomic) &lt;#Class#&gt; &lt;#name#&gt;;</string>
+	<string>/**
+ *  &lt;#name#&gt;
+ *
+ *  @author BZH
+ */</string>
 	<key>IDECodeSnippetIdentifier</key>
-	<string>3E4747B5-B31B-4FE4-8947-67089FC40CB6</string>
+	<string>D7621115-4C8C-4B91-98BA-7568977F2AB0</string>
 	<key>IDECodeSnippetLanguage</key>
 	<string>Xcode.SourceCodeLanguage.Objective-C</string>
-	<key>IDECodeSnippetPlatformFamily</key>
-	<string>iphoneos</string>
 	<key>IDECodeSnippetSummary</key>
-	<string>copy引用属性</string>
+	<string>作者</string>
 	<key>IDECodeSnippetTitle</key>
-	<string>copy</string>
+	<string>Auth</string>
 	<key>IDECodeSnippetUserSnippet</key>
 	<true/>
 	<key>IDECodeSnippetVersion</key>

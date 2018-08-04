@@ -3,24 +3,22 @@
 <plist version="1.0">
 <dict>
 	<key>IDECodeSnippetCompletionPrefix</key>
-	<string>strong</string>
+	<string>string</string>
 	<key>IDECodeSnippetCompletionScopes</key>
 	<array>
-		<string>ClassInterfaceMethods</string>
+		<string>All</string>
 	</array>
 	<key>IDECodeSnippetContents</key>
-	<string>///&lt;#desc#&gt;
-@property (strong, nonatomic) &lt;#Class#&gt; *&lt;#name#&gt;;</string>
+	<string>//&lt;#desc#&gt;
+@property (copy,   nonatomic) NSString *&lt;#name#&gt;;</string>
 	<key>IDECodeSnippetIdentifier</key>
-	<string>F6E54D6D-14A0-4193-B984-A2997AA167CA</string>
+	<string>88C8A4B7-8AE5-40BC-A099-7FE69B11AFD3</string>
 	<key>IDECodeSnippetLanguage</key>
-	<string>Xcode.SourceCodeLanguage.Objective-C-Plus-Plus</string>
-	<key>IDECodeSnippetPlatformFamily</key>
-	<string>iphoneos</string>
+	<string>Xcode.SourceCodeLanguage.Objective-C</string>
 	<key>IDECodeSnippetSummary</key>
-	<string>强引用属性</string>
+	<string>字符串</string>
 	<key>IDECodeSnippetTitle</key>
-	<string>strong</string>
+	<string>String</string>
 	<key>IDECodeSnippetUserSnippet</key>
 	<true/>
 	<key>IDECodeSnippetVersion</key>

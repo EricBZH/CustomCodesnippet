@@ -3,29 +3,22 @@
 <plist version="1.0">
 <dict>
 	<key>IDECodeSnippetCompletionPrefix</key>
-	<string>protocol</string>
+	<string>strong</string>
 	<key>IDECodeSnippetCompletionScopes</key>
 	<array>
-		<string>TopLevel</string>
+		<string>All</string>
 	</array>
 	<key>IDECodeSnippetContents</key>
-	<string>@class &lt;#class#&gt;;
-
-@protocol &lt;#delegate#&gt; &lt;NSObject&gt;
-
-@optional
-
-@end</string>
+	<string>//&lt;#desc#&gt;
+@property (strong, nonatomic) &lt;#Class#&gt; *&lt;#name#&gt;;</string>
 	<key>IDECodeSnippetIdentifier</key>
-	<string>A561011A-344F-4CE7-9157-0702342CB948</string>
+	<string>7296D0B7-09EE-444E-8AF9-866D0BD8827B</string>
 	<key>IDECodeSnippetLanguage</key>
 	<string>Xcode.SourceCodeLanguage.Objective-C</string>
-	<key>IDECodeSnippetPlatformFamily</key>
-	<string>iphoneos</string>
 	<key>IDECodeSnippetSummary</key>
-	<string>代理代码块</string>
+	<string>强引用属性</string>
 	<key>IDECodeSnippetTitle</key>
-	<string>protocol</string>
+	<string>Strong</string>
 	<key>IDECodeSnippetUserSnippet</key>
 	<true/>
 	<key>IDECodeSnippetVersion</key>

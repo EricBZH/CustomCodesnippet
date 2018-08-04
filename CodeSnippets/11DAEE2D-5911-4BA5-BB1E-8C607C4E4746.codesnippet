@@ -3,24 +3,27 @@
 <plist version="1.0">
 <dict>
 	<key>IDECodeSnippetCompletionPrefix</key>
-	<string>bool</string>
+	<string>protocol</string>
 	<key>IDECodeSnippetCompletionScopes</key>
 	<array>
-		<string>ClassInterfaceMethods</string>
+		<string>TopLevel</string>
 	</array>
 	<key>IDECodeSnippetContents</key>
-	<string>///&lt;#desc#&gt;
-@property (assign, nonatomic) BOOL &lt;#name#&gt;;</string>
+	<string>@class &lt;#ClassName#&gt;;
+
+@protocol &lt;#ClassName#&gt;Delegate
+
+@optional
+
+@end</string>
 	<key>IDECodeSnippetIdentifier</key>
-	<string>0433F27A-DA28-4647-8EF4-6416C4871006</string>
+	<string>11DAEE2D-5911-4BA5-BB1E-8C607C4E4746</string>
 	<key>IDECodeSnippetLanguage</key>
 	<string>Xcode.SourceCodeLanguage.Objective-C</string>
-	<key>IDECodeSnippetPlatformFamily</key>
-	<string>iphoneos</string>
 	<key>IDECodeSnippetSummary</key>
-	<string>布尔值属性</string>
+	<string>快速生成代理</string>
 	<key>IDECodeSnippetTitle</key>
-	<string>bool</string>
+	<string>Protocol</string>
 	<key>IDECodeSnippetUserSnippet</key>
 	<true/>
 	<key>IDECodeSnippetVersion</key>

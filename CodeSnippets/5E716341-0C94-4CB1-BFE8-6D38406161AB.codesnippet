@@ -3,23 +3,22 @@
 <plist version="1.0">
 <dict>
 	<key>IDECodeSnippetCompletionPrefix</key>
-	<string>delegate</string>
+	<string>copy</string>
 	<key>IDECodeSnippetCompletionScopes</key>
 	<array>
-		<string>ClassInterfaceMethods</string>
+		<string>All</string>
 	</array>
 	<key>IDECodeSnippetContents</key>
-	<string>@property (weak,   nonatomic) id &lt;&lt;#delegate#&gt;&gt; delegate;</string>
+	<string>//&lt;#desc#&gt;
+@property (copy,   nonatomic) &lt;#Class#&gt; *&lt;#name#&gt;;</string>
 	<key>IDECodeSnippetIdentifier</key>
-	<string>842C94E1-B33E-4BE5-B3BE-8A6DF2AF27C6</string>
+	<string>5E716341-0C94-4CB1-BFE8-6D38406161AB</string>
 	<key>IDECodeSnippetLanguage</key>
 	<string>Xcode.SourceCodeLanguage.Objective-C</string>
-	<key>IDECodeSnippetPlatformFamily</key>
-	<string>iphoneos</string>
 	<key>IDECodeSnippetSummary</key>
-	<string>代理属性</string>
+	<string>深拷贝属性</string>
 	<key>IDECodeSnippetTitle</key>
-	<string>delegate</string>
+	<string>Copy</string>
 	<key>IDECodeSnippetUserSnippet</key>
 	<true/>
 	<key>IDECodeSnippetVersion</key>

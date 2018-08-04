@@ -3,27 +3,22 @@
 <plist version="1.0">
 <dict>
 	<key>IDECodeSnippetCompletionPrefix</key>
-	<string>author</string>
+	<string>block</string>
 	<key>IDECodeSnippetCompletionScopes</key>
 	<array>
-		<string>TopLevel</string>
+		<string>All</string>
 	</array>
 	<key>IDECodeSnippetContents</key>
-	<string>/**
- *  &lt;#name#&gt;
- *
- *  @author BZH
- */</string>
+	<string>//&lt;#desc#&gt;
+@property (copy,   nonatomic) &lt;#Block#&gt; &lt;#name#&gt;;</string>
 	<key>IDECodeSnippetIdentifier</key>
-	<string>C0E7CAF9-3AEE-48B3-92AB-9267D7754F1A</string>
+	<string>C88D8B34-880B-4288-87E3-E6BF178E91A7</string>
 	<key>IDECodeSnippetLanguage</key>
 	<string>Xcode.SourceCodeLanguage.Objective-C</string>
-	<key>IDECodeSnippetPlatformFamily</key>
-	<string>iphoneos</string>
 	<key>IDECodeSnippetSummary</key>
-	<string>作者</string>
+	<string>闭包</string>
 	<key>IDECodeSnippetTitle</key>
-	<string>author</string>
+	<string>Block</string>
 	<key>IDECodeSnippetUserSnippet</key>
 	<true/>
 	<key>IDECodeSnippetVersion</key>
