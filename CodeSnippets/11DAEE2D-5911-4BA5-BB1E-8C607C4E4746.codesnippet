@@ -11,7 +11,7 @@
 	<key>IDECodeSnippetContents</key>
 	<string>@class &lt;#ClassName#&gt;;
 
-@protocol &lt;#ClassName#&gt;Delegate
+@protocol &lt;#ClassName#&gt;Delegate &lt;NSObject&gt;
 
 @optional
 
