@@ -3,21 +3,23 @@
 <plist version="1.0">
 <dict>
 	<key>IDECodeSnippetCompletionPrefix</key>
-	<string>strongify</string>
+	<string>ProtocolIMP</string>
 	<key>IDECodeSnippetCompletionScopes</key>
 	<array>
-		<string>All</string>
+		<string>CodeBlock</string>
 	</array>
 	<key>IDECodeSnippetContents</key>
-	<string>@strongify(self);</string>
+	<string>if (self.delegate &amp;&amp; [self.delegate respondsToSelector:@selector(&lt;#selector#&gt;)]) {
+        self.delegate
+    }</string>
 	<key>IDECodeSnippetIdentifier</key>
-	<string>4B1DCA83-6A54-4213-A4DE-89077841C71E</string>
+	<string>21883CED-4032-4B83-85B8-41C9AF3AB238</string>
 	<key>IDECodeSnippetLanguage</key>
 	<string>Xcode.SourceCodeLanguage.Objective-C</string>
 	<key>IDECodeSnippetSummary</key>
-	<string>强引用</string>
+	<string>快速回调代理</string>
 	<key>IDECodeSnippetTitle</key>
-	<string>Strongify</string>
+	<string>ProtocolIMP</string>
 	<key>IDECodeSnippetUserSnippet</key>
 	<true/>
 	<key>IDECodeSnippetVersion</key>

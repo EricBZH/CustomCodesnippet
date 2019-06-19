@@ -3,21 +3,59 @@
 <plist version="1.0">
 <dict>
 	<key>IDECodeSnippetCompletionPrefix</key>
-	<string>strongify</string>
+	<string>markvc</string>
 	<key>IDECodeSnippetCompletionScopes</key>
 	<array>
 		<string>All</string>
 	</array>
 	<key>IDECodeSnippetContents</key>
-	<string>@strongify(self);</string>
+	<string>#pragma mark - LifeCycle
+
+- (void)viewDidLoad {
+    [super viewDidLoad];
+}
+
+- (void)initConfigure
+{
+    [super initConfigure];
+}
+
+- (void)initSubViews
+{
+    [super initSubViews];
+}
+
+- (void)setupViewModel
+{
+    [super setupViewModel];
+}
+
+- (void)buildData
+{
+    [super buildData];
+}
+
+#pragma mark - UI
+
+#pragma mark - Request
+
+#pragma mark - Data
+
+#pragma mark - Action
+
+#pragma mark - LazyLoad
+
+#pragma mark - OverWrite
+
+#pragma mark - Delegate</string>
 	<key>IDECodeSnippetIdentifier</key>
-	<string>4B1DCA83-6A54-4213-A4DE-89077841C71E</string>
+	<string>E6559B13-67DB-4FB8-8B65-7B3729B85DC0</string>
 	<key>IDECodeSnippetLanguage</key>
 	<string>Xcode.SourceCodeLanguage.Objective-C</string>
 	<key>IDECodeSnippetSummary</key>
-	<string>强引用</string>
+	<string>控制器实现代码块</string>
 	<key>IDECodeSnippetTitle</key>
-	<string>Strongify</string>
+	<string>MarkVC</string>
 	<key>IDECodeSnippetUserSnippet</key>
 	<true/>
 	<key>IDECodeSnippetVersion</key>
