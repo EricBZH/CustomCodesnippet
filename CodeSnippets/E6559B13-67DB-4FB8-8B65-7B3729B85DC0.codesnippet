@@ -11,28 +11,41 @@
 	<key>IDECodeSnippetContents</key>
 	<string>#pragma mark - LifeCycle
 
+- (instancetype)init
+{
+    self = [super init];
+    if (self) {
+        [self initConfigure];
+    }
+    return self;
+}
+
 - (void)viewDidLoad {
     [super viewDidLoad];
+    
+    [self initSubViews];
+    [self buildData];
 }
 
+/**
+ 创建
+ */
 - (void)initConfigure
 {
-    [super initConfigure];
 }
 
+/**
+ 加载视图
+ */
 - (void)initSubViews
 {
-    [super initSubViews];
 }
 
-- (void)setupViewModel
-{
-    [super setupViewModel];
-}
-
+/**
+ 加载数据
+ */
 - (void)buildData
 {
-    [super buildData];
 }
 
 #pragma mark - UI
