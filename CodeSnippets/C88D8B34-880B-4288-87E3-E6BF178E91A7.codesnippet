@@ -9,7 +9,7 @@
 		<string>All</string>
 	</array>
 	<key>IDECodeSnippetContents</key>
-	<string>///&lt;#desc#&gt;
+	<string>/// &lt;#desc#&gt;
 @property (copy,   nonatomic) &lt;#Block#&gt; &lt;#name#&gt;;</string>
 	<key>IDECodeSnippetIdentifier</key>
 	<string>C88D8B34-880B-4288-87E3-E6BF178E91A7</string>

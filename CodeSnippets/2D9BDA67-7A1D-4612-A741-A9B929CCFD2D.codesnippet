@@ -15,7 +15,7 @@
 	<key>IDECodeSnippetLanguage</key>
 	<string>Xcode.SourceCodeLanguage.Generic</string>
 	<key>IDECodeSnippetSummary</key>
-	<string>弱引用某个对象</string>
+	<string>弱引用对象</string>
 	<key>IDECodeSnippetTitle</key>
 	<string>@weak</string>
 	<key>IDECodeSnippetUserSnippet</key>
