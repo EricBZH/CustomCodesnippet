@@ -1,0 +1,40 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE plist PUBLIC "-//Apple//DTD PLIST 1.0//EN" "http://www.apple.com/DTDs/PropertyList-1.0.dtd">
+<plist version="1.0">
+<dict>
+	<key>IDECodeSnippetCompletionPrefix</key>
+	<string>TestMark</string>
+	<key>IDECodeSnippetCompletionScopes</key>
+	<array>
+		<string>ClassImplementation</string>
+		<string>CodeBlock</string>
+	</array>
+	<key>IDECodeSnippetContents</key>
+	<string>    /*CaseAdditionInfo start
+    {
+    "FT=企鹅号",
+    "模块=&lt;#desc#&gt;",
+    "功能=&lt;#desc#&gt;",
+    "测试分类=功能",
+    "测试阶段=全用例",
+    "管理者=&lt;#desc#&gt;",
+    "用例等级=&lt;#desc#&gt;",
+    "用例类型=&lt;#desc#&gt;",
+    "被测函数=/&lt;#desc#&gt;",
+    "用例描述=&lt;#desc#&gt;"
+    }
+    CaseAdditionInfo end*/</string>
+	<key>IDECodeSnippetIdentifier</key>
+	<string>20C461A6-20EC-4022-9955-4A3B66D2CE36</string>
+	<key>IDECodeSnippetLanguage</key>
+	<string>Xcode.SourceCodeLanguage.Objective-C</string>
+	<key>IDECodeSnippetSummary</key>
+	<string>快速生成单元测试注释</string>
+	<key>IDECodeSnippetTitle</key>
+	<string>TestMark</string>
+	<key>IDECodeSnippetUserSnippet</key>
+	<true/>
+	<key>IDECodeSnippetVersion</key>
+	<integer>0</integer>
+</dict>
+</plist>
