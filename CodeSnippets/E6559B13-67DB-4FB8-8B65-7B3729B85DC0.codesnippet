@@ -27,23 +27,17 @@
     [self buildData];
 }
 
-/**
- 创建
- */
+/// 创建
 - (void)initConfigure
 {
 }
 
-/**
- 加载视图
- */
+/// 加载视图
 - (void)initSubViews
 {
 }
 
-/**
- 加载数据
- */
+/// 加载数据
 - (void)buildData
 {
 }
