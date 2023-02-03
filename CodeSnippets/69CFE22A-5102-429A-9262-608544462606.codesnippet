@@ -3,28 +3,26 @@
 <plist version="1.0">
 <dict>
 	<key>IDECodeSnippetCompletionPrefix</key>
-	<string>Auth</string>
+	<string>LanrenIfEnd</string>
 	<key>IDECodeSnippetCompletionScopes</key>
 	<array>
-		<string>TopLevel</string>
+		<string>All</string>
 	</array>
 	<key>IDECodeSnippetContents</key>
-	<string>/**
- *  &lt;#name#&gt;
- *
- *  @author BZH
- */</string>
+	<string>#if FALanRen
+
+#endif</string>
 	<key>IDECodeSnippetIdentifier</key>
-	<string>D7621115-4C8C-4B91-98BA-7568977F2AB0</string>
+	<string>69CFE22A-5102-429A-9262-608544462606</string>
 	<key>IDECodeSnippetLanguage</key>
 	<string>Xcode.SourceCodeLanguage.Objective-C</string>
 	<key>IDECodeSnippetSummary</key>
-	<string>作者</string>
+	<string>懒人if-end</string>
 	<key>IDECodeSnippetTitle</key>
-	<string>Auth</string>
+	<string>LanRenIfEnd</string>
 	<key>IDECodeSnippetUserSnippet</key>
 	<true/>
 	<key>IDECodeSnippetVersion</key>
-	<integer>2</integer>
+	<integer>0</integer>
 </dict>
 </plist>
